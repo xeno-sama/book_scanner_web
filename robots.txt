@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://xeno-sama.github.io/book_scanner_web/sitemap.xml
